@@ -1,0 +1,1 @@
+member_area only! <?php echo anchor('login/logout', 'Logout'); ?>
